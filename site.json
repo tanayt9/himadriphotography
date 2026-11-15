@@ -31,63 +31,63 @@
   },
   "gallery": [
     {
-      "src": "photos/1.png",
+      "src": "photos/01.png",
       "caption": "Golden hour (sample)",
       "cat": "Travel",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/2.png",
+      "src": "photos/02.png",
       "caption": "Evening portrait (sample)",
       "cat": "Portraits",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/3.png",
+      "src": "photos/03.png",
       "caption": "Marigold details (sample)",
       "cat": "Haldi & Mehendi",
       "w": 1200,
       "h": 1200
     },
     {
-      "src": "photos/4.png",
+      "src": "photos/04.png",
       "caption": "City after dusk (sample)",
       "cat": "Events",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/5.png",
+      "src": "photos/05.png",
       "caption": "By the sea (sample)",
       "cat": "Travel",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/6.png",
+      "src": "photos/06.png",
       "caption": "Studio light (sample)",
       "cat": "Portraits",
       "w": 1000,
       "h": 1250
     },
     {
-      "src": "photos/7.png",
+      "src": "photos/07.png",
       "caption": "First light (sample)",
       "cat": "Travel",
       "w": 1200,
       "h": 1500
     },
     {
-      "src": "photos/8.png",
+      "src": "photos/08.png",
       "caption": "The couple (sample)",
       "cat": "Weddings",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/9.png",
+      "src": "photos/09.png",
       "caption": "Rooftops at night (sample)",
       "cat": "Events",
       "w": 1600,
@@ -253,7 +253,7 @@
   "instagramPosts": [],
   "facebook": "https://www.facebook.com/himadri.das.52",
   "videos": [
-     { "title": "Wedding highlights(Tanay & Poulami)", "type": "youtube", "url": "https://www.youtu.be/UJAgah_EVsg?feature=shared" },
+  { "title": "Wedding highlights(Tanay & Poulami)", "type": "youtube", "url": "https://www.youtu.be/UJAgah_EVsg?feature=shared" },
     {
       "title": "Wedding highlights (sample clip)",
       "type": "file",
@@ -283,7 +283,6 @@
       "ratio": "16/9"
     }
   ],
-  "facebookPage": "https://www.facebook.com/PhotographerOwnerEditor-at-Himadri_Photography-105149517850069/",
   "heroCollage": [
     "photos/2.png",
     "photos/3.png",
