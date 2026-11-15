@@ -155,6 +155,48 @@
       "cat": "Weddings",
       "w": 1200,
       "h": 1500
+    },
+    {
+      "src": "photos/19.png",
+      "caption": "Wedding portrait (sample)",
+      "cat": "Weddings",
+      "w": 1200,
+      "h": 1500
+    },
+     {
+      "src": "photos/20.png",
+      "caption": "Wedding portrait (sample)",
+      "cat": "Weddings",
+      "w": 1200,
+      "h": 1500
+    },
+     {
+      "src": "photos/21.png",
+      "caption": "Wedding portrait (sample)",
+      "cat": "Weddings",
+      "w": 1200,
+      "h": 1500
+    },
+     {
+      "src": "photos/22.png",
+      "caption": "Wedding portrait (sample)",
+      "cat": "Weddings",
+      "w": 1200,
+      "h": 1500
+    },
+     {
+      "src": "photos/23.png",
+      "caption": "Wedding portrait (sample)",
+      "cat": "Weddings",
+      "w": 1200,
+      "h": 1500
+    },
+     {
+      "src": "photos/24.png",
+      "caption": "Wedding portrait (sample)",
+      "cat": "Weddings",
+      "w": 1200,
+      "h": 1500
     }
   ],
   "faq": [
