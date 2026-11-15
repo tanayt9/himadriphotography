@@ -31,14 +31,14 @@
   },
   "gallery": [
     {
-      "src": "photos/01.png",
+      "src": "photos/01.PNG",
       "caption": "Golden hour (sample)",
       "cat": "Travel",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/02.png",
+      "src": "photos/02.PNG",
       "caption": "Evening portrait (sample)",
       "cat": "Portraits",
       "w": 1000,
