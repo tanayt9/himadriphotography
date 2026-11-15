@@ -7,7 +7,7 @@
   "headline": "Stories by Himadri",
   "tagline": "Wedding and portrait photography from Cooch Behar and Delhi. Honest light, real moments.",
   "about": {
-    "image": "photos/06.png",
+    "image": "photos/06.PNG",
     "title": "I’m Himadri, and I tell stories with a camera.",
     "text": [
       "I grew up in Cooch Behar and now live in Delhi. I’m the photographer, owner and editor of Himadri Photography, and I shoot weddings, couples, portraits and events in both cities, and wherever your story takes us.",
@@ -45,112 +45,112 @@
       "h": 1400
     },
     {
-      "src": "photos/03.png",
+      "src": "photos/03.PNG",
       "caption": "Marigold details (sample)",
       "cat": "Haldi & Mehendi",
       "w": 1200,
       "h": 1200
     },
     {
-      "src": "photos/04.png",
+      "src": "photos/04.PNG",
       "caption": "City after dusk (sample)",
       "cat": "Events",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/05.png",
+      "src": "photos/05.PNG",
       "caption": "By the sea (sample)",
       "cat": "Travel",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/06.png",
+      "src": "photos/06.PNG",
       "caption": "Studio light (sample)",
       "cat": "Portraits",
       "w": 1000,
       "h": 1250
     },
     {
-      "src": "photos/07.png",
+      "src": "photos/07.PNG",
       "caption": "First light (sample)",
       "cat": "Travel",
       "w": 1200,
       "h": 1500
     },
     {
-      "src": "photos/08.png",
+      "src": "photos/08.PNG",
       "caption": "The couple (sample)",
       "cat": "Weddings",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/09.png",
+      "src": "photos/09.PNG",
       "caption": "Rooftops at night (sample)",
       "cat": "Events",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/10.png",
+      "src": "photos/10.PNG",
       "caption": "Haldi ceremony (sample)",
       "cat": "Haldi & Mehendi",
       "w": 1000,
       "h": 1250
     },
     {
-      "src": "photos/11.png",
+      "src": "photos/11.PNG",
       "caption": "Mehendi patterns (sample)",
       "cat": "Haldi & Mehendi",
       "w": 1200,
       "h": 1200
     },
     {
-      "src": "photos/12.png",
+      "src": "photos/12.PNG",
       "caption": "Sangeet night (sample)",
       "cat": "Sangeet & Reception",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/13.png",
+      "src": "photos/13.PNG",
       "caption": "Reception hall (sample)",
       "cat": "Sangeet & Reception",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/14.png",
+      "src": "photos/14.PNG",
       "caption": "The rings (sample)",
       "cat": "Engagement",
       "w": 1200,
       "h": 1200
     },
     {
-      "src": "photos/15.png",
+      "src": "photos/15.PNG",
       "caption": "Birthday celebration (sample)",
       "cat": "Events",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/16.png",
+      "src": "photos/16.PNG",
       "caption": "Stage and lights (sample)",
       "cat": "Events",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/17.png",
+      "src": "photos/17.PNG",
       "caption": "Pre-wedding at sunset (sample)",
       "cat": "Pre-wedding",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/18.png",
+      "src": "photos/18.PNG",
       "caption": "Wedding portrait (sample)",
       "cat": "Weddings",
       "w": 1200,
@@ -284,8 +284,8 @@
   ],
   "facebookPage": "https://www.facebook.com/PhotographerOwnerEditor-at-Himadri_Photography-105149517850069/",
   "heroCollage": [
-    "photos/02.png",
-    "photos/03.png",
-    "photos/08.png"
+    "photos/02.PNG",
+    "photos/03.PNG",
+    "photos/08.PNG"
   ]
 }
