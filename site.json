@@ -1,0 +1,265 @@
+{
+  "name": "Himadri",
+  "city": "Cooch Behar & Delhi",
+  "whatsapp": "917001227108",
+  "instagram": "https://www.instagram.com/storiesbyhimadri/",
+  "email": "dashimadri40@gmail.com",
+  "headline": "Stories by Himadri",
+  "tagline": "Wedding and portrait photography from Cooch Behar and Delhi. Honest light, real moments.",
+  "heroImage": "photos/08.svg",
+  "about": {
+    "image": "photos/06.svg",
+    "title": "I’m Himadri, and I tell stories with a camera.",
+    "text": [
+      "I grew up in Cooch Behar and now live in Delhi. I’m the photographer, owner and editor of Himadri Photography, and I shoot weddings, couples, portraits and events in both cities, and wherever your story takes us.",
+      "A wedding is a few days of big emotions, with a lot happening at once. My job is to be calm in the middle of it, notice the small things and keep you comfortable. You’ll get photos of the laughter, the rituals and the quiet moments, not only posed pictures.",
+      "I edit every photo myself, so the colours and mood stay consistent from the first ritual to the last dance. Send me your date on WhatsApp and we’ll talk through what you have in mind."
+    ],
+    "facts": [
+      {
+        "n": "2 cities",
+        "l": "Delhi and Cooch Behar, travel on request"
+      },
+      {
+        "n": "1 artist",
+        "l": "shoots and edits every story himself"
+      },
+      {
+        "n": "Every ritual",
+        "l": "haldi to reception, covered start to finish"
+      }
+    ]
+  },
+  "categories": [
+    "Weddings",
+    "Pre-wedding",
+    "Engagement",
+    "Haldi & Mehendi",
+    "Sangeet & Reception",
+    "Portraits",
+    "Events",
+    "Travel"
+  ],
+  "gallery": [
+    {
+      "src": "photos/01.svg",
+      "caption": "Golden hour (sample)",
+      "cat": "Travel",
+      "w": 1600,
+      "h": 1000
+    },
+    {
+      "src": "photos/02.svg",
+      "caption": "Evening portrait (sample)",
+      "cat": "Portraits",
+      "w": 1000,
+      "h": 1400
+    },
+    {
+      "src": "photos/03.svg",
+      "caption": "Marigold details (sample)",
+      "cat": "Haldi & Mehendi",
+      "w": 1200,
+      "h": 1200
+    },
+    {
+      "src": "photos/04.svg",
+      "caption": "City after dusk (sample)",
+      "cat": "Events",
+      "w": 1000,
+      "h": 1400
+    },
+    {
+      "src": "photos/05.svg",
+      "caption": "By the sea (sample)",
+      "cat": "Travel",
+      "w": 1600,
+      "h": 1000
+    },
+    {
+      "src": "photos/06.svg",
+      "caption": "Studio light (sample)",
+      "cat": "Portraits",
+      "w": 1000,
+      "h": 1250
+    },
+    {
+      "src": "photos/07.svg",
+      "caption": "First light (sample)",
+      "cat": "Travel",
+      "w": 1200,
+      "h": 1500
+    },
+    {
+      "src": "photos/08.svg",
+      "caption": "The couple (sample)",
+      "cat": "Weddings",
+      "w": 1600,
+      "h": 1000
+    },
+    {
+      "src": "photos/09.svg",
+      "caption": "Rooftops at night (sample)",
+      "cat": "Events",
+      "w": 1600,
+      "h": 1000
+    },
+    {
+      "src": "photos/10.svg",
+      "caption": "Haldi ceremony (sample)",
+      "cat": "Haldi & Mehendi",
+      "w": 1000,
+      "h": 1250
+    },
+    {
+      "src": "photos/11.svg",
+      "caption": "Mehendi patterns (sample)",
+      "cat": "Haldi & Mehendi",
+      "w": 1200,
+      "h": 1200
+    },
+    {
+      "src": "photos/12.svg",
+      "caption": "Sangeet night (sample)",
+      "cat": "Sangeet & Reception",
+      "w": 1600,
+      "h": 1000
+    },
+    {
+      "src": "photos/13.svg",
+      "caption": "Reception hall (sample)",
+      "cat": "Sangeet & Reception",
+      "w": 1000,
+      "h": 1400
+    },
+    {
+      "src": "photos/14.svg",
+      "caption": "The rings (sample)",
+      "cat": "Engagement",
+      "w": 1200,
+      "h": 1200
+    },
+    {
+      "src": "photos/15.svg",
+      "caption": "Birthday celebration (sample)",
+      "cat": "Events",
+      "w": 1600,
+      "h": 1000
+    },
+    {
+      "src": "photos/16.svg",
+      "caption": "Stage and lights (sample)",
+      "cat": "Events",
+      "w": 1600,
+      "h": 1000
+    },
+    {
+      "src": "photos/17.svg",
+      "caption": "Pre-wedding at sunset (sample)",
+      "cat": "Pre-wedding",
+      "w": 1000,
+      "h": 1400
+    },
+    {
+      "src": "photos/18.svg",
+      "caption": "Wedding portrait (sample)",
+      "cat": "Weddings",
+      "w": 1200,
+      "h": 1500
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I book a date?",
+      "a": "Pick an open date in the calendar, choose a time and send the request on WhatsApp. Himadri will reply to confirm."
+    },
+    {
+      "q": "How far in advance should I book?",
+      "a": "As early as you can, especially for wedding season. Open dates in the calendar are updated regularly."
+    },
+    {
+      "q": "Do you shoot outside Delhi and Cooch Behar?",
+      "a": "Yes. Message the city and dates, and Himadri will share a quote that includes travel."
+    },
+    {
+      "q": "Do you cover all wedding functions?",
+      "a": "Yes. Haldi, mehendi, sangeet, the wedding and the reception can be covered together or one by one."
+    },
+    {
+      "q": "Do you shoot candid and traditional photos?",
+      "a": "Both. You get the family and ritual photos you expect, plus candid moments of the day."
+    },
+    {
+      "q": "How many photos will I receive, and when?",
+      "a": "It depends on the shoot. Ask for the delivery time and the number of edited photos when you book."
+    },
+    {
+      "q": "Do you make wedding albums?",
+      "a": "Yes. Albums and prints are available. Ask for options when you book."
+    },
+    {
+      "q": "Can we plan a pre-wedding shoot at a special location?",
+      "a": "Yes. Share the place you have in mind, or ask for suggestions in Delhi or Cooch Behar."
+    },
+    {
+      "q": "What is the payment process?",
+      "a": "Himadri will share the details on WhatsApp once the date and package are agreed."
+    },
+    {
+      "q": "Can I change my date?",
+      "a": "Message as soon as you know, and Himadri will check for another open date."
+    }
+  ],
+  "phone": "7001227108",
+  "services": [
+    {
+      "name": "Wedding photography",
+      "desc": "Full-day coverage of every ritual, from the baraat to the vidaai."
+    },
+    {
+      "name": "Candid wedding photography",
+      "desc": "Unposed moments of family, friends and the couple."
+    },
+    {
+      "name": "Pre-wedding shoots",
+      "desc": "Relaxed couple sessions at a location you love."
+    },
+    {
+      "name": "Engagement and ring ceremony",
+      "desc": "The exchange, the smiles and the family around you."
+    },
+    {
+      "name": "Haldi ceremony",
+      "desc": "Colour, laughter and the joy of the day."
+    },
+    {
+      "name": "Mehendi ceremony",
+      "desc": "Details, designs and the people having fun."
+    },
+    {
+      "name": "Sangeet and cocktail night",
+      "desc": "Low-light coverage of performances and the dance floor."
+    },
+    {
+      "name": "Reception",
+      "desc": "Stage portraits, family photos and the whole evening."
+    },
+    {
+      "name": "Bridal and groom portraits",
+      "desc": "Calm, flattering portraits of you in your wedding look."
+    },
+    {
+      "name": "Wedding albums and prints",
+      "desc": "Edited stories in a printed album or framed prints."
+    },
+    {
+      "name": "Portraits and family shoots",
+      "desc": "Individuals, families and creators, shot naturally."
+    },
+    {
+      "name": "Birthdays and events",
+      "desc": "Birthdays, baby showers, parties and corporate events."
+    }
+  ],
+  "instagramPosts": []
+}
