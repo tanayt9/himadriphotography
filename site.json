@@ -253,6 +253,7 @@
   "instagramPosts": [],
   "facebook": "https://www.facebook.com/himadri.das.52",
   "videos": [
+     { "title": "Wedding highlights(Tanay & Poulami)", "type": "youtube", "url": "https://www.youtu.be/UJAgah_EVsg?feature=shared" },
     {
       "title": "Wedding highlights (sample clip)",
       "type": "file",
