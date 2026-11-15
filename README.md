@@ -1,10 +1,13 @@
 # Stories by Himadri
 
-## 1. Add his real photos
-- Put images in `photos/` (JPG, about 1600px on the long side, under 400 KB each).
-- In `site.json`, edit the `gallery` list: set `src` (e.g. "photos/wedding-01.jpg"), `caption`, `cat` (one of `categories`) and `w`/`h` (pixel size).
-- Also set `heroImage` and `about.image`.
-- The `photos/01.svg … 09.svg` files are sample artwork. Delete them once real photos are in.
+## 1. Add his real photos (JSON only, no HTML editing)
+1. Upload the image files into the `photos/` folder on GitHub (JPG or WebP, about 1600px wide, under 400 KB each).
+2. Open `site.json` and add one line to the `gallery` list:
+   `{ "src": "photos/wedding-01.jpg", "caption": "Haldi ceremony", "cat": "Haldi & Mehendi" }`
+   or just the file name as text: `"photos/wedding-02.jpg"`.
+3. Commit. The photo appears on the site and a filter button for its `cat` is created automatically. `caption`, `cat`, `w` and `h` are all optional.
+- `heroCollage`: the three photos shown in the top section. `about.image`: the About photo.
+- The `photos/01.svg … 18.svg` files are sample artwork. Delete those entries and files when real photos are in.
 
 ## 1b. Or show his Instagram posts directly
 In `site.json`, add post links to `instagramPosts`, e.g. `["https://www.instagram.com/p/XXXXXXXX/"]`. A "From Instagram" section then appears, with his real photos and no downloading.

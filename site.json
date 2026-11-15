@@ -6,7 +6,6 @@
   "email": "dashimadri40@gmail.com",
   "headline": "Stories by Himadri",
   "tagline": "Wedding and portrait photography from Cooch Behar and Delhi. Honest light, real moments.",
-  "heroImage": "photos/08.svg",
   "about": {
     "image": "photos/06.svg",
     "title": "I’m Himadri, and I tell stories with a camera.",
@@ -30,16 +29,6 @@
       }
     ]
   },
-  "categories": [
-    "Weddings",
-    "Pre-wedding",
-    "Engagement",
-    "Haldi & Mehendi",
-    "Sangeet & Reception",
-    "Portraits",
-    "Events",
-    "Travel"
-  ],
   "gallery": [
     {
       "src": "photos/01.svg",
@@ -293,5 +282,10 @@
       "ratio": "16/9"
     }
   ],
-  "facebookPage": "https://www.facebook.com/PhotographerOwnerEditor-at-Himadri_Photography-105149517850069/"
+  "facebookPage": "https://www.facebook.com/PhotographerOwnerEditor-at-Himadri_Photography-105149517850069/",
+  "heroCollage": [
+    "photos/02.svg",
+    "photos/03.svg",
+    "photos/08.svg"
+  ]
 }
