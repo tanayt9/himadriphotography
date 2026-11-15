@@ -7,7 +7,7 @@
   "headline": "Stories by Himadri",
   "tagline": "Wedding and portrait photography from Cooch Behar and Delhi. Honest light, real moments.",
   "about": {
-    "image": "photos/06.svg",
+    "image": "photos/06.png",
     "title": "I’m Himadri, and I tell stories with a camera.",
     "text": [
       "I grew up in Cooch Behar and now live in Delhi. I’m the photographer, owner and editor of Himadri Photography, and I shoot weddings, couples, portraits and events in both cities, and wherever your story takes us.",
@@ -31,126 +31,126 @@
   },
   "gallery": [
     {
-      "src": "photos/01.svg",
+      "src": "photos/01.png",
       "caption": "Golden hour (sample)",
       "cat": "Travel",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/02.svg",
+      "src": "photos/02.png",
       "caption": "Evening portrait (sample)",
       "cat": "Portraits",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/03.svg",
+      "src": "photos/03.png",
       "caption": "Marigold details (sample)",
       "cat": "Haldi & Mehendi",
       "w": 1200,
       "h": 1200
     },
     {
-      "src": "photos/04.svg",
+      "src": "photos/04.png",
       "caption": "City after dusk (sample)",
       "cat": "Events",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/05.svg",
+      "src": "photos/05.png",
       "caption": "By the sea (sample)",
       "cat": "Travel",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/06.svg",
+      "src": "photos/06.png",
       "caption": "Studio light (sample)",
       "cat": "Portraits",
       "w": 1000,
       "h": 1250
     },
     {
-      "src": "photos/07.svg",
+      "src": "photos/07.png",
       "caption": "First light (sample)",
       "cat": "Travel",
       "w": 1200,
       "h": 1500
     },
     {
-      "src": "photos/08.svg",
+      "src": "photos/08.png",
       "caption": "The couple (sample)",
       "cat": "Weddings",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/09.svg",
+      "src": "photos/09.png",
       "caption": "Rooftops at night (sample)",
       "cat": "Events",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/10.svg",
+      "src": "photos/10.png",
       "caption": "Haldi ceremony (sample)",
       "cat": "Haldi & Mehendi",
       "w": 1000,
       "h": 1250
     },
     {
-      "src": "photos/11.svg",
+      "src": "photos/11.png",
       "caption": "Mehendi patterns (sample)",
       "cat": "Haldi & Mehendi",
       "w": 1200,
       "h": 1200
     },
     {
-      "src": "photos/12.svg",
+      "src": "photos/12.png",
       "caption": "Sangeet night (sample)",
       "cat": "Sangeet & Reception",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/13.svg",
+      "src": "photos/13.png",
       "caption": "Reception hall (sample)",
       "cat": "Sangeet & Reception",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/14.svg",
+      "src": "photos/14.png",
       "caption": "The rings (sample)",
       "cat": "Engagement",
       "w": 1200,
       "h": 1200
     },
     {
-      "src": "photos/15.svg",
+      "src": "photos/15.png",
       "caption": "Birthday celebration (sample)",
       "cat": "Events",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/16.svg",
+      "src": "photos/16.png",
       "caption": "Stage and lights (sample)",
       "cat": "Events",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/17.svg",
+      "src": "photos/17.png",
       "caption": "Pre-wedding at sunset (sample)",
       "cat": "Pre-wedding",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/18.svg",
+      "src": "photos/18.png",
       "caption": "Wedding portrait (sample)",
       "cat": "Weddings",
       "w": 1200,
@@ -284,8 +284,8 @@
   ],
   "facebookPage": "https://www.facebook.com/PhotographerOwnerEditor-at-Himadri_Photography-105149517850069/",
   "heroCollage": [
-    "photos/02.svg",
-    "photos/03.svg",
-    "photos/08.svg"
+    "photos/02.png",
+    "photos/03.png",
+    "photos/08.png"
   ]
 }
