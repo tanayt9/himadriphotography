@@ -262,5 +262,36 @@
     }
   ],
   "instagramPosts": [],
-  "facebook": "https://www.facebook.com/himadri.das.52"
+  "facebook": "https://www.facebook.com/himadri.das.52",
+  "videos": [
+    {
+      "title": "Wedding highlights (sample clip)",
+      "type": "file",
+      "src": "videos/highlights.mp4",
+      "poster": "videos/highlights.jpg",
+      "ratio": "16/9"
+    },
+    {
+      "title": "Pre-wedding film (sample clip)",
+      "type": "file",
+      "src": "videos/prewedding.mp4",
+      "poster": "videos/prewedding.jpg",
+      "ratio": "16/9"
+    },
+    {
+      "title": "Wedding teaser, vertical reel (sample clip)",
+      "type": "file",
+      "src": "videos/teaser.mp4",
+      "poster": "videos/teaser.jpg",
+      "ratio": "9/16"
+    },
+    {
+      "title": "Haldi and sangeet (sample clip)",
+      "type": "file",
+      "src": "videos/sangeet.mp4",
+      "poster": "videos/sangeet.jpg",
+      "ratio": "16/9"
+    }
+  ],
+  "facebookPage": "https://www.facebook.com/PhotographerOwnerEditor-at-Himadri_Photography-105149517850069/"
 }

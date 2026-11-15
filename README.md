@@ -29,3 +29,11 @@ Push to GitHub → vercel.com → Add New → Project → import repo → Deploy
 - On Vercel the page always reads the latest `site.json` and `availability.json`. A copy is also built into `index.html` so the page still shows content when you open the file directly from your computer.
 - The "Follow along" section embeds his Instagram profile. If Instagram refuses to show it in your browser, the "Open Instagram" button still works. For a full auto-updating photo grid, a free widget such as Behold.so or Elfsight can be pasted in its place.
 - Photos named 01–18 in `photos/` are sample artwork. Replace them with his real photos.
+
+## Videos
+Edit `videos` in `site.json`. Each entry has a `title` and a `type`:
+- YouTube: `{"title":"Wedding highlights","type":"youtube","url":"https://www.youtube.com/watch?v=XXXXXXXXXXX"}`
+- Instagram reel: `{"title":"Reel","type":"instagram","url":"https://www.instagram.com/reel/XXXX/","ratio":"9/16"}`
+- Facebook video: `{"title":"Film","type":"facebook","url":"https://www.facebook.com/.../videos/123/"}`
+- Your own file: put an MP4 (H.264, under 25 MB) in `videos/`: `{"title":"Teaser","type":"file","src":"videos/teaser.mp4","poster":"videos/teaser.jpg"}`
+Best option for long wedding films: upload to YouTube (unlisted is fine) and paste the link. Delete the sample entry when you add real ones. Remove all entries to hide the section.
