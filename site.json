@@ -31,63 +31,63 @@
   },
   "gallery": [
     {
-      "src": "photos/01.png",
+      "src": "photos/1.png",
       "caption": "Golden hour (sample)",
       "cat": "Travel",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/02.png",
+      "src": "photos/2.png",
       "caption": "Evening portrait (sample)",
       "cat": "Portraits",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/03.png",
+      "src": "photos/3.png",
       "caption": "Marigold details (sample)",
       "cat": "Haldi & Mehendi",
       "w": 1200,
       "h": 1200
     },
     {
-      "src": "photos/04.png",
+      "src": "photos/4.png",
       "caption": "City after dusk (sample)",
       "cat": "Events",
       "w": 1000,
       "h": 1400
     },
     {
-      "src": "photos/05.png",
+      "src": "photos/5.png",
       "caption": "By the sea (sample)",
       "cat": "Travel",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/06.png",
+      "src": "photos/6.png",
       "caption": "Studio light (sample)",
       "cat": "Portraits",
       "w": 1000,
       "h": 1250
     },
     {
-      "src": "photos/07.png",
+      "src": "photos/7.png",
       "caption": "First light (sample)",
       "cat": "Travel",
       "w": 1200,
       "h": 1500
     },
     {
-      "src": "photos/08.png",
+      "src": "photos/8.png",
       "caption": "The couple (sample)",
       "cat": "Weddings",
       "w": 1600,
       "h": 1000
     },
     {
-      "src": "photos/09.png",
+      "src": "photos/9.png",
       "caption": "Rooftops at night (sample)",
       "cat": "Events",
       "w": 1600,
